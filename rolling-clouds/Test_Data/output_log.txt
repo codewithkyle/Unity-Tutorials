@@ -1,0 +1,32 @@
+Initialize engine version: 5.6.3p2 (b3d7a6428558)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1070 (ID=0x1b81)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+    Driver:   23.21.13.9065
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\andre\Desktop\Low Poly Clouds Tutorial\Test_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\andre\Desktop\Low Poly Clouds Tutorial\Test_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\andre\Desktop\Low Poly Clouds Tutorial\Test_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\andre\Desktop\Low Poly Clouds Tutorial\Test_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\andre\Desktop\Low Poly Clouds Tutorial\Test_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\andre\Desktop\Low Poly Clouds Tutorial\Test_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\andre\Desktop\Low Poly Clouds Tutorial\Test_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\andre\Desktop\Low Poly Clouds Tutorial\Test_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\andre\Desktop\Low Poly Clouds Tutorial\Test_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\andre\Desktop\Low Poly Clouds Tutorial\Test_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.162 seconds
+Platform assembly: C:\Users\andre\Desktop\Low Poly Clouds Tutorial\Test_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\andre\Desktop\Low Poly Clouds Tutorial\Test_Data\Managed\System.dll (this message is harmless)
+desktop: 3840x2160 30Hz; virtual: 4920x2160 at -1080,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.137749 ms
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 2c98 -> priority: 1 
+  Thread -> id: c70 -> priority: 1 
+  Thread -> id: 1fe0 -> priority: 1 
+  Thread -> id: 3030 -> priority: 1 

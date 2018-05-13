@@ -1,0 +1,30 @@
+100,000 Insta:ces
+GPU: 5
+CPU Instanced: 3.6
+CPU Non-Instanced: 3
+
+	In Build:
+	GPU: 15
+	CPU Instanced: 2
+	CPU Non-Instaced: 4
+
+
+10,000 Instances
+GPU: 37
+CPU Instanced: 55
+CPU Non-Instanced: 49
+
+	In Build:
+	GPU: 40
+	CPU Instanced: 30
+	CPU Non-Instaced: 30
+
+1000 Instances
+GPU: 39
+CPU Instanced: 46
+CPU Non-Instanced: 48
+
+	In Build:
+	GPU: 57
+	CPU Instanced: 50
+	CPU Non-Instaced: 50
